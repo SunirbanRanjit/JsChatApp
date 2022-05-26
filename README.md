@@ -20,3 +20,6 @@ node ./server.js
 ```
 
 Open localhost 3000 in browser.
+
+Or you can preview live demo
+[Chat app](https://simple--chat--app.herokuapp.com/)
